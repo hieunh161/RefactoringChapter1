@@ -1,7 +1,6 @@
 package vn.com.fsoft;
 
 import static org.hamcrest.MatcherAssert.assertThat;
-//import static org.hamcrest.Matchers.is;
 import static org.hamcrest.Matchers.equalTo;
 import org.junit.Test;
 
